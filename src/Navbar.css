@@ -1,0 +1,22 @@
+.Navbar{
+    color: blueviolet;
+    background-color: rgb(108, 216, 155);
+    display: flex;
+    justify-content: space-between;
+}
+
+.c1 {
+    color: rgb(77, 4, 141);
+    padding-left: 25px;
+    font-family: 'Castoro', serif;
+}
+
+.c2 {
+    color: gray;
+    margin-left: -150px;
+}
+
+.c3 {
+    color: black;
+    padding-right: 25px;
+}
