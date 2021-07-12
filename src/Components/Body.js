@@ -2,6 +2,7 @@ import React,{useState} from "react";
 import './Body.css';
 
 import Ingredients from "./Ingredients";
+import Instructions from "./Instructions";
 
 function Body(props) {
     const [count, setCount]  = useState(0);
@@ -21,6 +22,7 @@ function Body(props) {
                             <button onClick={() => setCount(count + 1)} >addOne</button>
                         </div>
                     <Ingredients ing0={ing0} ing1={ing1} ing2={ing2} />
+                    <Instructions ing0={ing0} ing1={ing1} ing2={ing2} />
             </div>
     );
 }

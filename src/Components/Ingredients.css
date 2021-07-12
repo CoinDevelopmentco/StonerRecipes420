@@ -10,10 +10,11 @@
     flex-direction: column;
 }
 
-.container {
+.container0 {
     display: flex;
     align-self: center;
-    min-width:  380px
+    min-width:  375px;
+    flex-direction: row;
 }
 
 .left {

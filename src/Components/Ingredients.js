@@ -5,7 +5,7 @@ function Ingredients(props) {
 
     return(
         <div className="alignIng">
-            <div className="container">
+            <div className="container0">
                 <div className="left">
                 <div>
                     Water
@@ -18,7 +18,7 @@ function Ingredients(props) {
                     <img className="img" src="https://thumbs.dreamstime.com/b/measuring-cup-clear-water-isolated-white-176674362.jpg"/>
                 </div>
             </div>
-            <div className="container">
+            <div className="container0">
                 <div className="left">
                 <div>
                     Butter
@@ -31,7 +31,7 @@ function Ingredients(props) {
                     <img className="img" src="https://res.cloudinary.com/nassau-candy/image/upload/c_fit,w_1000,h_1000,f_auto/992021.jpg"/>
                 </div>
             </div>
-            <div className="container">
+            <div className="container0">
                 <div className="left">
                 <div>
                 DeCarb'd Cannabis
