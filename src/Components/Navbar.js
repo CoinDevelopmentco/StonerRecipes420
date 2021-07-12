@@ -1,5 +1,6 @@
 import React from "react";
 import './Navbar.css';
+import WeedLeaf from './weedLeaf.png';
 
 function Navbar() {
     return(
@@ -11,7 +12,7 @@ function Navbar() {
                     <h1>StonerRecipes</h1>
             </div>
             <div className="c3">
-                    <h3>(legalize-it)</h3>
+                    <p>(Legalize-It)</p>
             </div>
         </div>
     );
