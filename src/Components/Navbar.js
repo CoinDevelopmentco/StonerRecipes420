@@ -6,10 +6,10 @@ function Navbar() {
     return(
         <div className="Navbar">
             <div className="c1">
-                    <h1>LOGO</h1>
+                    <p>LOGO</p>
             </div>
             <div className="c2">
-                    <h1>StonerRecipes</h1>
+                    <p>StonerRecipes</p>
             </div>
             <div className="c3">
                     <p>(Legalize-It)</p>

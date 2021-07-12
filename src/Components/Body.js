@@ -12,8 +12,10 @@ function Body(props) {
 
     return(
         <div className="body">
-            <h1 className="title" >How to Make CannaButter</h1>
-            <div className="ing" >Ingredients</div>
+            <div className="topSpan" />
+            <div className="howTwoTitle" >How to Make CannaButter</div>
+            <div className="titleSpan" />
+            <div className="ingredientTitle" >Ingredients</div>
                         <div className="servigns" >
                             <div>
                                 Servings: {count}  

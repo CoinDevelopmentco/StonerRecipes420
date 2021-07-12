@@ -2,17 +2,24 @@
     font-family: 'Castoro', serif;
 }
 
-.title {
-    color: black;
-    font-size: 50px;
-}
-
-.ing {
+.howTwoTitle {
     color: black;
     font-size: 35px;
+}
+
+.ingredientTitle {
+    color: black;
+    font-size: 22px;
     margin-bottom: 5px;
 }
 .servigns {
     padding-bottom: 10px;
 }
 
+.topSpan {
+    min-height: 22px;
+}
+
+.titleSpan {
+    min-height: 15px;
+}
