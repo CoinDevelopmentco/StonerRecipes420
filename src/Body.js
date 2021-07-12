@@ -10,7 +10,7 @@ function Body() {
     return(
         <div className="body">
             <h1 className="title" >How to Make CannaButter</h1>
-            <div className="ing" > Ingredients</div>
+            <div className="ing" >Ingredients</div>
                         <div className="servigns" >
                             <div>
                                 Servings: {count}  
