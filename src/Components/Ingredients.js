@@ -34,7 +34,7 @@ function Ingredients(props) {
             <div className="container0">
                 <div className="left">
                 <div>
-                DeCarb'd Cannabis
+                Cannabis
                 </div>
                 <div>
                     {props.ing2} Oz
