@@ -11,7 +11,7 @@ function Ingredients(props) {
                     Water
                 </div>
                 <div>
-                    {props.ing0} Cups
+                    {props.ing0} Cups+
                 </div>
                 </div>
                 <div className="right">
