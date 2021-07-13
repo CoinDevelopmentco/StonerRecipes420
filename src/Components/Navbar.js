@@ -1,12 +1,11 @@
 import React from "react";
 import './Navbar.css';
-import WeedLeaf from './weedLeaf.png';
 
 function Navbar() {
     return(
         <div className="Navbar">
             <div className="c1">
-                    <p>LOGO</p>
+                    <p> </p>
             </div>
             <div className="c2">
                     <p>StonerRecipes</p>

@@ -1,5 +1,5 @@
 .Navbar{
-    background-color: rgb(108, 216, 155);
+    background-color: rgb(13, 255, 255);
     padding-left: 20px;
     padding-right: 20px;
     display: flex;
@@ -7,13 +7,13 @@
 }
 
 .c1 {
-    color: rgb(108, 216, 155);
+    color: rgb(162, 249, 255);
     font-family: 'Castoro', serif;
     flex:   1;
 }
 
 .c2 {
-    color: rgb(77, 4, 141);
+    color: rgb(232, 0, 232);
     font-family: 'Castoro', serif;
     flex:   1;
 }

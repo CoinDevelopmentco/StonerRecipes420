@@ -20,8 +20,8 @@ function Body(props) {
                             <div>
                                 Servings: {count}  
                             </div>
-                            <button onClick={() => setCount(count - 1)} >minusOne</button>
-                            <button onClick={() => setCount(count + 1)} >addOne</button>
+                            <button onClick={() => setCount(count - 1)} >-One</button>
+                            <button onClick={() => setCount(count + 1)} >+One</button>
                         </div>
                     <Ingredients ing0={ing0} ing1={ing1} ing2={ing2} />
                     <Instructions ing0={ing0} ing1={ing1} ing2={ing2} />
